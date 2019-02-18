@@ -1,0 +1,7 @@
+var x = [3, 1, 9, 5, 2, 7,6]
+function fact(x)
+{
+    print(x.sort());
+}
+print(fact);
+fact(x);
